@@ -64,4 +64,4 @@ relevance and computational efficiency of the imputation process while minimizin
 
 For more info
 ------
-More info can be found in my CV: [CV](https://github.com/topycyao.io/SY/cv). 
+More info can be found in my CV: [CV](https://github.com/topycyao.io/SY//cv/). 
