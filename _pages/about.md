@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I am a postdoctoral Fellow at Biostat and Bioinformatics Department in H.Lee Moffitt Cancer Center. I am currently working in Dr.Xuefeng Wang's lab. 
-   I obtained my Ph.D at Department of Applied Mathematics and Statistics in Stony Brook Univeristy (Advisor: Prof.Haipeng Xing). I also finished my Master's 
-   degree in Stony Brook Univeristy and got my Bachelor's degree in Nanjing University, China.
+👨🏻‍💻**Postdoctoral Fellow at Biostat and Bioinformatics Department, H.Lee Moffitt Cancer Center**
+   I am currently working in Dr.[Xuefeng Wang's lab](https://lab.moffitt.org/wang/). 
+   I obtained my Ph.D at Department of Applied Mathematics and Statistics in Stony Brook Univeristy (Advisor: [Prof.Haipeng Xing](https://www.ams.sunysb.edu/~xing/)).
+   I also completed my Master’s degree at Stony Brook University and received my Bachelor’s degree from Nanjing University, China.
 
-🔬 My research interests focus on: 
-   * different machine learning models in cancer survival data;
-   * generative deep learning models in single-cell transcriptomics data;
+### 🔬Research Interests
+ My research interests focus on: 
+   * different machine learning models in cancer survival data
+   * generative deep learning models in single-cell transcriptomics data
    * causal inference in cancer patients' disparities.
    
 Key words: Machine learning, Deep learning, Survival, Multiple kernel learning, Single cell, Causal inference, Time series 
