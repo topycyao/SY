@@ -63,6 +63,28 @@ of right-censored survival outcomes.
 
 [Publication](https://academic.oup.com/bioinformatics/article/38/6/1631/6493225)
 
+**L1 Regularization for High-Dimensional Multivariate GARCH Models**
+
+To address the spillover effect in high-dimensional stock market, We establish theoretical properties for estimators of L1 penalized GARCH models with
+BEKK representations. We show the sparsity and the consistency of the proposed penalized quasi-maximum likelihood (PQML) and show that the proposed
+outperforms some benchmark models.
+
+[Publication](https://www.mdpi.com/2227-9091/12/2/34)
+
+### Interesting Ongoing Projects
+
+**Causal Inference for Cancer Patients' Disparities**
+
+We introduce an approach to causal inference within the Cox model tailored to socioeconomic data.
+Acknowledging the multi-dimensional nature of socioeconomic factors, our method extends the convention binary
+treatments to a multi-state causal inference framework. This approach aims to capture the nuanced impact of
+socioeconomic variables on cancer survival across diverse states, providing a comprehensive understanding of
+SES disparities in cancer survival.
+
+**Transfer Learning with Neural Tangent Kernel Networks in Large Dataset**
+
+A recent study utilizing projected dual preconditioned SGD for large-scale general kernel models, in conjunction with Neural Tangent Kernels (NTK), provide new potential for the multiple kernel machines to efficiently handle large datasets by leveraging deep learning frameworks.  We propose a transfer learning model by leveraging the computational efficiency and well-defined structures of Neural Tangel Kernel (NTK) in TCGA to CCLE 450K methylation data. 
+
 **Grant and Award**
 
 2023 Junior Scientist Research Partnership (JSRP) Award Winner: Utilizing Cell Free DNA to Detect Minimal Residual Disease and Monitor Response to Neoadjuvant Chemotherapy in Muscle Invasive Bladder Cancer. ($10,000)
