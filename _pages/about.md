@@ -56,7 +56,7 @@ relevance and computational efficiency of the imputation process while minimizin
 
 -Yao, S., Li, T., Cao, B., Kalos, D., Yuan, Y. and Wang, X. (2023).
 
-[Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://academic.oup.com/nargab/article/5/2/lqad055/7199343))
+[Publication](https://academic.oup.com/nargab/article/5/2/lqad055/7199343)
 
 **Efficient Gradient Boosting for Prognostic Biomarker Discovery**
 
