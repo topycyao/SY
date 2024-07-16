@@ -16,9 +16,6 @@ redirect_from:
    
 Key words: Machine learning, Deep learning, Survival, Multiple kernel learning, Single cell, Causal inference, Time series 
 
-I am currently looking for faculty jobs in stat/biostat and related fields.
-
-
 Featured Projects
 ======
 **GPS-Net: Discovering Prognostic Pathway Modules Based on Network Regularized Kernel Learning**
