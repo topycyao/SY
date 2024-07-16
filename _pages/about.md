@@ -12,9 +12,9 @@ redirect_from:
    degree in Stony Brook Univeristy and got my Bachelor's degree in Nanjing University, China.
 
 🔬 My research interests focus on: 
-   different machine learning models in cancer survival data;
-   generative deep learning models in single-cell transcriptomics data;
-   causal inference in cancer patients' disparities.
+   * different machine learning models in cancer survival data;
+   * generative deep learning models in single-cell transcriptomics data;
+   * causal inference in cancer patients' disparities.
    
 Key words: Machine learning, Deep learning, Survival, Multiple kernel learning, Single cell, Causal inference, Time series 
 
