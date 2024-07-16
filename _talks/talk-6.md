@@ -4,6 +4,6 @@ collection: talks
 type: "Poster"
 permalink: /talks/talk-6
 venue: "Third Penn Conference on Big Data in Biomedical and Population Health Sciences"
-date: 2023-09
+date: 2023-09-18
 location: "Philadelphia, PA, USA"
 ---
