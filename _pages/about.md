@@ -11,8 +11,10 @@ redirect_from:
    I obtained my Ph.D at Department of Applied Mathematics and Statistics in Stony Brook Univeristy (Advisor: Prof.Haipeng Xing). I also finished my Master's 
    degree in Stony Brook Univeristy and got my Bachelor's degree in Nanjing University, China.
 
-🔬 My research recent interests focus on different machine learning models in cancer survival data, generative deep learning models in single-cell transcriptomics data
-   and causal inference in cancer patients' disparities.
+🔬 My research interests focus on: 
+   different machine learning models in cancer survival data;
+   generative deep learning models in single-cell transcriptomics data;
+   causal inference in cancer patients' disparities.
    
 Key words: Machine learning, Deep learning, Survival, Multiple kernel learning, Single cell, Causal inference, Time series 
 
