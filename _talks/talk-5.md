@@ -1,5 +1,5 @@
 ---
-title: "5.Poster: Vanishing Deviance Problem in High-dimensional Penalized Cox Regression"
+title: "Poster: Vanishing Deviance Problem in High-dimensional Penalized Cox Regression"
 collection: talks
 type: "Poster"
 permalink: /talks/talk-5
