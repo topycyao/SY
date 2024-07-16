@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-### 👨🏻‍💻Postdoctoral Fellow at Biostat and Bioinformatics Department, H.Lee Moffitt Cancer Center
-   
-   I am currently working in Dr.[Xuefeng Wang's lab](https://lab.moffitt.org/wang/). 
-   I obtained my Ph.D at Department of Applied Mathematics and Statistics in Stony Brook Univeristy (Advisor: [Prof.Haipeng Xing](https://www.ams.sunysb.edu/~xing/)).
-   I also completed my Master’s degree at Stony Brook University and received my Bachelor’s degree from Nanjing University, China.
+👨🏻‍💻***Postdoctoral Fellow at Biostat and Bioinformatics Department, H.Lee Moffitt Cancer Center***
+   - I am currently working in Dr.[Xuefeng Wang's lab](https://lab.moffitt.org/wang/). 
+   - I obtained my Ph.D at Department of Applied Mathematics and Statistics in Stony Brook Univeristy (Advisor: [Prof.Haipeng Xing](https://www.ams.sunysb.edu/~xing/)).
+   - I also completed my Master’s degree at Stony Brook University and received my Bachelor’s degree from Nanjing University, China.
 
 ### 🔬Research Interests
  My research interests focus on: 
