@@ -13,7 +13,6 @@ author_profile: true
 1. Yao, S., Li, K., Li, T., and Wang, X. (2024) GPS-Net: Discovering Prognostic Pathway Modules Based on Network Regularized Kernel Learning. (Under Revision: American Journal of Human Genetics)
 2. Yao, S., Yu, X., and Wang, X. (2024). SmartImpute: A Targeted Imputation Framework for Single-cell Transcriptome Data. 
 3. Yao, S., and Wang, X. (2024). Causal Inference for Cancer Patients Disparities. (Manuscript in preparation)
-https://doi.org/10.3390/s21062240
 4. Yao, S., Xing, H. and Zou, H. (2024). L1 Regularization for High-dimensional Multivariate GARCH Models. Risks, 12, 34.
 5. Yao, S., Li, T., Cao, B., Kalos, D., Yuan, Y. and Wang, X. (2023). Prediction-Oriented Prognostic Biomarker Discovery with Survival Machine Learning Methods. NAR Genom Bioinform, 5(2).
 6. Yao, S. and Wang, X. (2023). Statistical and Machine Learning Methods for Discovering Prognostic Biomarkers for Survival Outcomes. Methods in Molecular Biology, 2629:11-21.

@@ -1,23 +1,24 @@
 ---
 permalink: /
-title: "Personal Introduction"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👨🏻‍💻 I am a postdoctoral Fellow at Biostat and Bioinformatics Department in H.Lee Moffitt Cancer Center. I am currently working in Dr.Xuefeng Wang's lab. 
-   I obtained my Ph.D at Department of Applied Mathematics and Statistics in Stony Brook Univeristy (Advisor: Prof.Haipeng Xing). I also finished my Master's 
-   degree in Stony Brook Univeristy and got my Bachelor's degree in Nanjing University, China.
+👨🏻‍💻**Postdoctoral Fellow at Biostat and Bioinformatics Department, H.Lee Moffitt Cancer Center**
+   - I am currently working in Dr.[Xuefeng Wang's lab](https://lab.moffitt.org/wang/). 
+   - I obtained my Ph.D at Department of Applied Mathematics and Statistics in Stony Brook Univeristy (Advisor: [Prof.Haipeng Xing](https://www.ams.sunysb.edu/~xing/)).
+   - I also completed my Master’s degree at Stony Brook University and received my Bachelor’s degree from Nanjing University, China.
 
-🔬 My research recent interests focus on different machine learning models in cancer survival data, generative deep learning models in single-cell transcriptomics data
-   and causal inference in cancer patients' disparities.
+### 🔬Research Interests
+ My research interests focus on: 
+   * different machine learning models in cancer survival data
+   * generative deep learning models in single-cell transcriptomics data
+   * causal inference in cancer patients' disparities.
    
-Key words: Machine learning, Deep learning, Survival, Multiple kernel learning, Single cell, Causal inference, Time series 
-
-I am currently looking for faculty jobs in stat/biostat and related fields.
-
+  Key words: Machine learning, Deep learning, Survival, Biomarker, Multiple kernel learning, Single cell, Causal inference, Time series 
 
 Featured Projects
 ======
@@ -34,7 +35,6 @@ as demonstrated by extensive simulation studies.
 
 **SmartImpute: A Targeted Imputation Framework for Single-cell Transcriptome Data**
 
--Yao, S., Yu, X., and Wang, X. (2024).
 We present SmartImpute, a novel computational framework designed for targeted imputation of scRNA-seq data.SmartImpute focuses on a predefined set of marker genes,
 enhancing the biological relevance and computational efficiency of the imputation process while minimizing the risk of model misspecification.
 
@@ -58,8 +58,10 @@ We adapt the predicition-oriented marker selection (PROMISE) to a surivival mode
 we present a new R package ‘Xsurv’ as an integrated solution that applies two modern GBDT training frameworks namely, XGB and LGB, for the modeling 
 of right-censored survival outcomes.
 
-[Publication](https://academic.oup.com/bioinformatics/article/38/6/1631/6493225)
+![image](https://github.com/user-attachments/assets/b9c588c0-beff-49a5-8724-38cbff4dd565)
 
+
+[Publication](https://academic.oup.com/bioinformatics/article/38/6/1631/6493225)
 
 **Grant and Award**
 
