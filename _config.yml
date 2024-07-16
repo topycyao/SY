@@ -24,11 +24,12 @@ author:
   avatar           : "prof_web.jpg"
   name             : "Sijie Yao"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc fellow in Biostat | Ph.D in Statistics"
+  bio              : "Postdoc fellow in Biostat |
+                      Ph.D in Statistics"
   location         : "Tampa, Florida, USA"
   employer         : "H.Lee Moffitt Cancer Center"
   uri              : # URL
-  email            : sijie.yao@moffitt.org 
+  email            : "sijie.yao@moffitt.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
