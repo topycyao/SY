@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate Course"
 collection: teaching
-type: "Workshop"
+type: "AMS 516: Statistical methods in finance "
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Stony Brook Univerisity, Department of Applied Mathematics and Statistics"
+date: 2018-12-20
+location: "Stony Brook, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Giving lectures for statistical modeling: principal conponenet analysis, markowitz portfolio optimization, time serires model.
 
 Heading 1
 ======
