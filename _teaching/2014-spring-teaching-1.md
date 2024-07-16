@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate Course"
 collection: teaching
-type: "Undergraduate course"
+type: "AMS 316: Introduction to time seriers analaysis"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Stony Brook Univeristy, Department of Applied Mathematics and Statistics"
+date: 2018-12-20
+location: "Stony Brook, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Giving lectures to students for AR and GARCH model. Evaluate students' performance in their exams.
 
 Heading 1
 ======
