@@ -18,7 +18,7 @@ redirect_from:
    * generative deep learning models in single-cell transcriptomics data
    * causal inference in cancer patients' disparities.
    
-Key words: Machine learning, Deep learning, Survival, Biomarker, Multiple kernel learning, Single cell, Causal inference, Time series 
+  Key words: Machine learning, Deep learning, Survival, Biomarker, Multiple kernel learning, Single cell, Causal inference, Time series 
 
 Featured Projects
 ======
