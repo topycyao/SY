@@ -34,7 +34,6 @@ as demonstrated by extensive simulation studies.
 
 **SmartImpute: A Targeted Imputation Framework for Single-cell Transcriptome Data**
 
--Yao, S., Yu, X., and Wang, X. (2024).
 We present SmartImpute, a novel computational framework designed for targeted imputation of scRNA-seq data.SmartImpute focuses on a predefined set of marker genes,
 enhancing the biological relevance and computational efficiency of the imputation process while minimizing the risk of model misspecification.
 
