@@ -57,7 +57,8 @@ We adapt the predicition-oriented marker selection (PROMISE) to a surivival mode
 we present a new R package ‘Xsurv’ as an integrated solution that applies two modern GBDT training frameworks namely, XGB and LGB, for the modeling 
 of right-censored survival outcomes.
 
-![image](https://github.com/user-attachments/assets/29cee5be-ff4f-414d-bc68-9e7f7f9976e8)
+![image](https://github.com/user-attachments/assets/b9c588c0-beff-49a5-8724-38cbff4dd565)
+
 
 [Publication](https://academic.oup.com/bioinformatics/article/38/6/1631/6493225)
 
