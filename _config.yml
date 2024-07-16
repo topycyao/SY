@@ -21,7 +21,7 @@ repository               : "topycyao.github.io/SY"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof_web.jpg"
   name             : "Sijie Yao"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D in Statistics"
