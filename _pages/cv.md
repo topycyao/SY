@@ -12,9 +12,9 @@ redirect_from:
 Education and Training
 ======
 - Postdoc Biostat    | H.Lee Moffitt Cancer Center (_Present_)
-- Ph.D.,  Statistics | Stony Brook University (_May 2020_)								       		
+- Ph.D.,  Statistics| Stony Brook University (_May 2020_)								       		
 - M.S.,   Statistics | Stony Brook University (_June 2016_)	 			        		
-- B.S.,   Statistics | Nanjing University (_June 2014_)
+- B.S.,   Statistics| Nanjing University (_June 2014_)
 
 References
 ======
