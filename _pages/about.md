@@ -59,9 +59,7 @@ of right-censored survival outcomes.
 
 ![image](https://github.com/user-attachments/assets/29cee5be-ff4f-414d-bc68-9e7f7f9976e8)
 
-
 [Publication](https://academic.oup.com/bioinformatics/article/38/6/1631/6493225)
-
 
 **Grant and Award**
 
