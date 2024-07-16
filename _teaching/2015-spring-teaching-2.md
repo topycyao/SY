@@ -8,7 +8,7 @@ date: 2018-12-20
 location: "Stony Brook, NY"
 ---
 
-Giving lectures for statistical modeling: principal conponenet analysis, markowitz portfolio optimization, time serires model.
+Giving lectures for statistical modeling: principal conponenet analysis, Markowitz portfolio optimization, time serires model.
 
 Heading 1
 ======
