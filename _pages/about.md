@@ -19,48 +19,45 @@ Key words: Machine learning, Deep learning, Survival, Multiple kernel learning, 
 I am currently looking for faculty jobs in stat/biostat and related fields.
 
 
-Highlighted Projects
+Featured Projects
 ======
 **GPS-Net: Discovering Prognostic Pathway Modules Based on Network Regularized Kernel Learning**
 
--Yao, S., Li, K., Li, T., and Wang, X. (2024)
-
-The search for prognostic biomarkers capable of predicting patient outcomes, by analyzing gene expression in tissue samples and other molecular profiles, 
-remains largely on single-gene-based or global-gene-search approaches. Gene-centric approaches, while foundational, fail to capture the higher-order dependencies
-that reflect the activities of co-regulated processes, pathway alterations, and regulatory networks, all of which are crucial in determining the patient outcomes 
-in complex diseases like cancer. Here, we introduce GPS-Net, a computational framework that fills the gap in efficiently identifying prognostic  modules by incorporating 
+We introduce GPS-Net, a computational framework that fills the gap in efficiently identifying prognostic  modules by incorporating 
 the holistic pathway structures and the network of gene interactions. By innovatively incorporating advanced multiple kernel learning techniques and network-based 
 regularization,the proposed method not only enhances the accuracy of biomarker and pathway identification but also significantly reduces computational complexity, 
 as demonstrated by extensive simulation studies.
-[Under Revision](American Jouranl of Human Genetics)
+[Under Revision in American Jouranl of Human Genetics]()
 
-![image](https://github.com/user-attachments/assets/217bc986-a174-4ca0-9e3f-91607e506313)
+![image](https://github.com/user-attachments/assets/5391eb13-d817-4ea2-9fb1-62d247ce9940)
 
-[Publication](https://)
 
 **SmartImpute: A Targeted Imputation Framework for Single-cell Transcriptome Data**
 
 -Yao, S., Yu, X., and Wang, X. (2024).
+We present SmartImpute, a novel computational framework designed for targeted imputation of scRNA-seq data.SmartImpute focuses on a predefined set of marker genes,
+enhancing the biological relevance and computational efficiency of the imputation process while minimizing the risk of model misspecification.
 
-Single-cell RNA sequencing (scRNA-seq) has revolutionized our understanding of cellular heterogeneity and tissue transcriptomic complexity. 
-However, the high frequency of dropout events in scRNA-seq data complicates downstream analyses such as cell type identification and trajectory inference. 
-Existing imputation methods address the dropout problem but face limitations such as high computational cost and risk of over-imputation. We present SmartImpute, 
-a novel computational framework designed for targeted imputation of scRNA-seq data.SmartImpute focuses on a predefined set of marker genes, enhancing the biological 
-relevance and computational efficiency of the imputation process while minimizing the risk of model misspecification.
+![image](https://github.com/user-attachments/assets/87bbaff2-bb77-4ac6-a5a6-d7fe45544b5e)
 
-![image](https://github.com/user-attachments/assets/9cb9f7c6-c6dc-40b9-9cc9-3002103b3a9e)
 
-[Publication](https://)
+[BioRxiv](https://)
 
 **Prediction-Oriented Prognostic Biomarker Discovery with Survival Machine Learning Methods**
 
--Yao, S., Li, T., Cao, B., Kalos, D., Yuan, Y. and Wang, X. (2023).
+we construct and compare a series of prediction-oriented biomarker selection frameworks by leveraging recent machine learning algorithms,
+including random survival forests, extreme gradient boosting, light gradient boosting and deep learning-based survival models. Additionally,
+We adapt the predicition-oriented marker selection (PROMISE) to a surivival model.
+
+![image](https://github.com/user-attachments/assets/61c69ea7-f145-409a-9691-e1231e30897a)
 
 [Publication](https://academic.oup.com/nargab/article/5/2/lqad055/7199343)
 
 **Efficient Gradient Boosting for Prognostic Biomarker Discovery**
 
--Li, K., Yao, S*., Zhang, Z., Cao, B., Wilson, C., Kalos, D., Kuan, P., Zhu, R. and Wang, X. (2022).
+we present a new R package ‘Xsurv’ as an integrated solution that applies two modern GBDT training frameworks namely, XGB and LGB, for the modeling 
+of right-censored survival outcomes.
+
 [Publication](https://academic.oup.com/bioinformatics/article/38/6/1631/6493225)
 
 
