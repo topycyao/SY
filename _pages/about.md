@@ -22,7 +22,9 @@ I am currently looking for faculty jobs in stat/biostat and related fields.
 Highlighted Projects
 ======
 **GPS-Net: Discovering Prognostic Pathway Modules Based on Network Regularized Kernel Learning**
+
 -Yao, S., Li, K., Li, T., and Wang, X. (2024)
+
 The search for prognostic biomarkers capable of predicting patient outcomes, by analyzing gene expression in tissue samples and other molecular profiles, 
 remains largely on single-gene-based or global-gene-search approaches. Gene-centric approaches, while foundational, fail to capture the higher-order dependencies
 that reflect the activities of co-regulated processes, pathway alterations, and regulatory networks, all of which are crucial in determining the patient outcomes 
@@ -37,7 +39,9 @@ as demonstrated by extensive simulation studies.
 [Publication](https://)
 
 **SmartImpute: A Targeted Imputation Framework for Single-cell Transcriptome Data**
+
 -Yao, S., Yu, X., and Wang, X. (2024).
+
 Single-cell RNA sequencing (scRNA-seq) has revolutionized our understanding of cellular heterogeneity and tissue transcriptomic complexity. 
 However, the high frequency of dropout events in scRNA-seq data complicates downstream analyses such as cell type identification and trajectory inference. 
 Existing imputation methods address the dropout problem but face limitations such as high computational cost and risk of over-imputation. We present SmartImpute, 
@@ -49,11 +53,13 @@ relevance and computational efficiency of the imputation process while minimizin
 [Publication](https://)
 
 **Prediction-Oriented Prognostic Biomarker Discovery with Survival Machine Learning Methods**
+
 -Yao, S., Li, T., Cao, B., Kalos, D., Yuan, Y. and Wang, X. (2023).
 
 [Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://academic.oup.com/nargab/article/5/2/lqad055/7199343))
 
 **Efficient Gradient Boosting for Prognostic Biomarker Discovery**
+
 -Li, K., Yao, S*., Zhang, Z., Cao, B., Wilson, C., Kalos, D., Kuan, P., Zhu, R. and Wang, X. (2022).
 [Publication](https://academic.oup.com/bioinformatics/article/38/6/1631/6493225)
 
