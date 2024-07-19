@@ -28,7 +28,7 @@ We introduce GPS-Net, a computational framework that fills the gap in efficientl
 the holistic pathway structures and the network of gene interactions. By innovatively incorporating advanced multiple kernel learning techniques and network-based 
 regularization,the proposed method not only enhances the accuracy of biomarker and pathway identification but also significantly reduces computational complexity, 
 as demonstrated by extensive simulation studies.
-[Under Revision in American Jouranl of Human Genetics]()
+[Under Revision in American Jouranl of Human Genetics (BioRxiv)](https://www.biorxiv.org/content/10.1101/2024.07.15.603645v1)
 
 ![image](https://github.com/user-attachments/assets/5391eb13-d817-4ea2-9fb1-62d247ce9940)
 
@@ -41,7 +41,7 @@ enhancing the biological relevance and computational efficiency of the imputatio
 ![image](https://github.com/user-attachments/assets/87bbaff2-bb77-4ac6-a5a6-d7fe45544b5e)
 
 
-[BioRxiv](https://)
+[BioRxiv](https://https://www.biorxiv.org/content/10.1101/2024.07.15.603649v1)
 
 **Prediction-Oriented Prognostic Biomarker Discovery with Survival Machine Learning Methods**
 
