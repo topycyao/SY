@@ -41,7 +41,7 @@ enhancing the biological relevance and computational efficiency of the imputatio
 ![image](https://github.com/user-attachments/assets/87bbaff2-bb77-4ac6-a5a6-d7fe45544b5e)
 
 
-[BioRxiv](https://https://www.biorxiv.org/content/10.1101/2024.07.15.603649v1)
+[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.15.603649v1)
 
 **Prediction-Oriented Prognostic Biomarker Discovery with Survival Machine Learning Methods**
 
